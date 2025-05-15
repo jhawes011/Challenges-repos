@@ -1,0 +1,14 @@
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.AssemblyInfoInputs.cache
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.AssemblyInfo.cs
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.csproj.CoreCompileInputs.cache
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\bin\Debug\net8.0\leetcode-c#-two-sum.exe
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\bin\Debug\net8.0\leetcode-c#-two-sum.deps.json
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\bin\Debug\net8.0\leetcode-c#-two-sum.runtimeconfig.json
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\bin\Debug\net8.0\leetcode-c#-two-sum.dll
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\bin\Debug\net8.0\leetcode-c#-two-sum.pdb
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.dll
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\refint\leetcode-c#-two-sum.dll
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.pdb
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\leetcode-c#-two-sum.genruntimeconfig.cache
+C:\repos\challenges-repos\leetcode-c#-two-sum\leetcode-c#-two-sum\obj\Debug\net8.0\ref\leetcode-c#-two-sum.dll
