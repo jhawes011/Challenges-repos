@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\challenges-repos\\leetcode-c#-longest-common-prefix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF552475-6EB2-416C-A9C8-74149BA0B5AF}|leetcode-c#-longest-common-prefix\\leetcode-c#-longest-common-prefix.csproj|c:\\repos\\challenges-repos\\leetcode-c#-longest-common-prefix\\leetcode-c#-longest-common-prefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF552475-6EB2-416C-A9C8-74149BA0B5AF}|leetcode-c#-longest-common-prefix\\leetcode-c#-longest-common-prefix.csproj|solutionrelative:leetcode-c#-longest-common-prefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\challenges-repos\\leetcode-c#-longest-common-prefix\\leetcode-c#-longest-common-prefix\\Program.cs",
+              "RelativeDocumentMoniker": "leetcode-c#-longest-common-prefix\\Program.cs",
+              "ToolTip": "C:\\repos\\challenges-repos\\leetcode-c#-longest-common-prefix\\leetcode-c#-longest-common-prefix\\Program.cs",
+              "RelativeToolTip": "leetcode-c#-longest-common-prefix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:43:40.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
